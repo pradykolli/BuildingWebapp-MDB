@@ -117,6 +117,7 @@ footer.page-footer {
     width: 100vw;
     bottom: 0;
     z-index: 999;
+    letter-spacing: 30px;
 }
 @media (max-width:767px){
     .navbar .navbar-brand{
