@@ -111,6 +111,18 @@ form{
     background: #fff;
     border-radius: 10px;
 }
+#SarojCard{
+    height: 191px;
+}
+#Saroj{
+    /* background: url('../img/profiles/Saroz.jpg') 50% 50% no-repeat;
+    background-size: cover; */
+    /* transform: scale(0.6); */
+    top: -100px;
+}
+#Saroj .rgba-black-strong, .rgba-black-strong:after {
+    background-color: rgba(0,0,0,.4)!important;
+}
 footer.page-footer {
     color: #fff;
     position: fixed;
